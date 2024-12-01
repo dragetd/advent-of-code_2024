@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 2024
 
 This repository is hosted at `https://gitlab.com/draget-advent-of-code/aoc2024` and only mirrored to GitHub.
 

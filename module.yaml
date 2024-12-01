@@ -1,3 +1,8 @@
 ---
 
 product: "jvm/app"
+
+dependencies:
+  - "com.github.ajalt.clikt:clikt:5.0.2"
+  - "org.seleniumhq.selenium:selenium-java:4.27.0"
+  - $kotlin.reflect
